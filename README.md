@@ -22,7 +22,8 @@
 * Рассчитан Retention для рекламного трафика
 * Найден общий признак упавшего сегмента аудитории
 
+<p></p>
 <p text_align="center"><img src="marketing_campaign_and_down_users.png" alt="dashboard" width="auto" height="auto"></p>
 
 
-PS: Задание принадлежит компании [karpov.cources](https://karpov.courses/simulator){target="_blank"}
+PS: Задание принадлежит компании [karpov.cources](https://karpov.courses/simulator)
