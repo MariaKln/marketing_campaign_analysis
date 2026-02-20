@@ -25,4 +25,4 @@
 <p text_align="center"><img src="marketing_campaign_and_down_users.png" alt="dashboard" width="auto" height="auto"></p>
 
 
-PS: Задание принадлежит компании target="blanc">[karpov.cources](https://karpov.courses/simulator)
+PS: Задание принадлежит компании [karpov.cources](https://karpov.courses/simulator){target="_blank"}
