@@ -15,9 +15,6 @@
 
 2. Выяснить, какие пользователи не смогли воспользоваться лентой в день, когда резко упала аудитория. Что их объединяет?
 
-Оба события (рекламную компанию и падение аудитории) можно видеть на графике DAU
-
-<img src="dau.png" alt="dau" width="500" height="auto">
 
 ### Результаты:
 
@@ -25,5 +22,7 @@
 * Рассчитан Retention для рекламного трафика
 * Найден общий признак упавшего сегмента аудитории
 
+<p text_align="center"><img src="marketing_campaign_and_down_users.png" alt="dashboard" width="auto" height="auto"></p>
 
-PS: Задание принадлежит компании <a hrev="https://karpov.courses/simulator" target="blanc">karpov.cources</a> 
+
+PS: Задание принадлежит компании target="blanc">[karpov.cources](https://karpov.courses/simulator)
